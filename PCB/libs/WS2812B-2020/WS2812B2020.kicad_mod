@@ -1,0 +1,236 @@
+(footprint "WS2812B2020"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WS2812B-2020-2")
+	(tags "LED (Multiple)")
+	(property "Reference" "D1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "39787bd8-6120-45eb-865e-fb27ea266c49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "WS2812B-2020"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e6377e94-4110-4825-9b88-a9e11f48f9a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "WS2812B-2020:WS2812B2020"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b748d944-dffe-4a4a-be78-43024315ce65")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9afe549-c9f9-43a3-a454-92349785f359")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "101b7169-7d73-448b-bfd9-f65d5cfd9020")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.315765 1.035468)
+		(end 1.315765 1.035468)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58b24f78-81aa-478d-b123-9f46205a8dc0")
+	)
+	(fp_line
+		(start 1.315765 1.135468)
+		(end 1.315765 1.135468)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37d6a97f-7508-4668-8f76-6dd23050a89e")
+	)
+	(fp_arc
+		(start 1.315765 1.035468)
+		(mid 1.365765 1.085468)
+		(end 1.315765 1.135468)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "934a0398-15c9-4665-81e6-8d0e7dfb3873")
+	)
+	(fp_arc
+		(start 1.315765 1.135468)
+		(mid 1.265765 1.085468)
+		(end 1.315765 1.035468)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41c52009-d959-448e-b671-a81d2bff92f6")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ebc0d586-b9e6-4229-b04d-ad1f2b7f17f7")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4705cbb5-9ff9-4e29-bbd2-63e1e2397dfa")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "13c1134f-34c5-4d59-a3b6-9cedc123b4e2")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9bfe3c11-1c6e-46ba-a3f5-c22ecf9bc599")
+	)
+	(fp_line
+		(start -1.1 -1)
+		(end 1.1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "566e5c5d-0008-41d2-bc51-6fd4f4d23a76")
+	)
+	(fp_line
+		(start -1.1 1)
+		(end -1.1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9a4feaaa-7941-4ef8-88f1-2c140e77d616")
+	)
+	(fp_line
+		(start 1.1 -1)
+		(end 1.1 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c2704b1e-f8c3-4526-aca7-8ebe517a445e")
+	)
+	(fp_line
+		(start 1.1 1)
+		(end -1.1 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "19845f38-a873-4e05-917b-63975eaca544")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "10e0cfff-dffd-4aee-b5dd-f9273d509124")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.915 0.55 90)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1d504bdc-0d39-4e14-b4b6-c2391a5a331c")
+	)
+	(pad "2" smd rect
+		(at 0.915 -0.55 90)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "bd9016cc-da9c-4a06-9f07-b49fd8174a72")
+	)
+	(pad "3" smd rect
+		(at -0.915 -0.55 90)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d2c16aea-cf16-4d34-9ab3-68151a49e974")
+	)
+	(pad "4" smd rect
+		(at -0.915 0.55 90)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f5f28fb-ef53-4eb1-8c10-733129525584")
+	)
+	(model "WS2812B-2020.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

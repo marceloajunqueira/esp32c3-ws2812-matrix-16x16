@@ -1,0 +1,404 @@
+(footprint "SKRTLAE010"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SKRTLAE010-4")
+	(tags "Switch")
+	(property "Reference" "S3"
+		(at 3.656877 -1.583803 90)
+		(layer "F.SilkS")
+		(uuid "6dfa0a28-4ce2-487c-8c55-c7af91ab8667")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SKRTLAE010"
+		(at 0.025 -0.225 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b3f0efc6-73f5-46bb-af7d-08619022eb2a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "15485111-d17a-453c-a997-cf5507a559fc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" "https://tech.alpsalpine.com/e/products/detail/SKRTLAE010/"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "43bde10b-18ad-4e12-9719-1cd18d92212a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d5751c9f-55a0-46db-b2ee-97a660301e43")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Arrow Part Number" "SKRTLAE010"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6860bf5c-9676-4795-9fe0-cdeaf1dd247c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/skrtlae010/alps-electric"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5167d326-bc2a-4367-94dd-e395c762a220")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "3.3"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c831a76e-ea80-4946-8af9-cd401801f452")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "ALPS Electric"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da7bc16e-4af5-433c-9551-fe9b2ea0cd4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SKRTLAE010"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac60943c-a0b1-4f05-8aef-8786661d4edf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "688-SKRTLA"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4263b099-c795-4c9c-b245-faf1098274bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRTLAE010?qs=4nKZKRgDHlm3FhoHNgWQ9A%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ba92648-4ba2-452e-aa83-4addb5848bb6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.575 -2.6)
+		(end -1.575 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "321246a1-46a4-46b0-af41-0c4b4589a1a3")
+	)
+	(fp_line
+		(start -1.575 -2.5)
+		(end -1.575 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d12c061-83cf-4c8a-b629-a507909b52ca")
+	)
+	(fp_line
+		(start -1 1.49)
+		(end -1 1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58577a0c-9343-42dc-b3ff-579b2bf1e414")
+	)
+	(fp_line
+		(start -1 1.7)
+		(end 1 1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b8281bd-c1b4-4aa5-8d48-87c637f59af6")
+	)
+	(fp_line
+		(start 0.8 0.86)
+		(end -0.8 0.86)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75db79b4-448b-45ce-832f-a7ab766cf610")
+	)
+	(fp_line
+		(start 1 1.7)
+		(end 1 1.49)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "21a5d376-d0e1-4f10-bd12-f5a5c3ed9f92")
+	)
+	(fp_arc
+		(start -1.575 -2.6)
+		(mid -1.525 -2.55)
+		(end -1.575 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15cfc617-1447-4473-8f4b-20713be8da51")
+	)
+	(fp_arc
+		(start -1.575 -2.5)
+		(mid -1.625 -2.55)
+		(end -1.575 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e5e520c-b386-4822-955e-73ccb285fc5a")
+	)
+	(fp_line
+		(start -3.55 -3.15)
+		(end -3.55 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9ec7365-bf38-4ec9-b6ea-5c0180f06675")
+	)
+	(fp_line
+		(start -3.55 2.7)
+		(end 3.6 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4a13c0b6-4ded-4878-997b-2ed850ee0705")
+	)
+	(fp_line
+		(start 3.6 -3.15)
+		(end -3.55 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6174cb96-1fee-47e4-96bb-5d70522b39fe")
+	)
+	(fp_line
+		(start 3.6 2.7)
+		(end 3.6 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f8790a61-bd1d-407c-a710-f4f670f7ba94")
+	)
+	(fp_line
+		(start -2.225 -1.7)
+		(end -2.225 0.86)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7af28390-e165-4742-9a8f-d98106691535")
+	)
+	(fp_line
+		(start -2.225 0.86)
+		(end 2.225 0.86)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c1d094ea-da76-4274-ad55-7ab95b1ea1d6")
+	)
+	(fp_line
+		(start -1 0.86)
+		(end -1 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b7c51bb5-f57f-45b8-a061-d6a6700dd0f2")
+	)
+	(fp_line
+		(start -1 1.7)
+		(end 1 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6067d9e9-d0b9-4478-8fda-feed0cc14918")
+	)
+	(fp_line
+		(start 1 1.7)
+		(end 1 0.86)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7fec4449-cbd4-4e18-83df-687c5d732d7b")
+	)
+	(fp_line
+		(start 2.225 -1.7)
+		(end -2.225 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e98ce79-dea7-4ef2-b449-56c3491bb2cf")
+	)
+	(fp_line
+		(start 2.225 0.86)
+		(end 2.225 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "91a11a1e-c12f-464c-8d90-3fdbb263e339")
+	)
+	(pad "1" thru_hole circle
+		(at -2.1 -0.35)
+		(size 1.1 1.1)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b9c87174-7acd-4d4a-b755-3fe208f86bfd")
+	)
+	(pad "1" smd rect
+		(at -1.575 -1.25)
+		(size 0.75 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "475dca26-ff35-45f4-a52f-834b88b6f916")
+	)
+	(pad "2" smd rect
+		(at 0.025 -1.25)
+		(size 0.6 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0e3aa044-22c9-4214-ba2c-8a86b3aa11dc")
+	)
+	(pad "3" smd rect
+		(at 1.625 -1.25)
+		(size 0.75 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0be04ccf-ebcd-4e57-aa2e-d932c2e0bb34")
+	)
+	(pad "3" thru_hole circle
+		(at 2.15 -0.35)
+		(size 1.1 1.1)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ec797ecf-e27e-4948-8ed3-b3d73996cff0")
+	)
+	(pad "MP1" smd rect
+		(at -1.825 0.7 90)
+		(size 0.9 1.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "57c38e58-c944-4c00-9e50-42b74668d52c")
+	)
+	(pad "MP2" smd rect
+		(at 1.875 0.7 90)
+		(size 0.9 1.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "39ed36f6-3dcd-466d-a7b0-932d1dfea1f8")
+	)
+	(model "${KIPRJMOD}/libs/LIB_SKRTLAE010/SKRTLAE010.stp"
+		(offset
+			(xyz 0.03 -0.6 1.73)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,9 @@
+Manufacturer=Worldsemi
+PartNumber=WS2812B-2020
+PartCategory=LED (Multiple)
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2020-12-26 15:06:42
+Downloaded=2024-07-23 14:50:46
+3D=Y

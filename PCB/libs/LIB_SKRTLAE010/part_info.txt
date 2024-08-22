@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=SKRTLAE010
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=1.3
+Released=2023-06-30 13:00:45
+Downloaded=2024-04-01 17:09:31
+3D=Y
